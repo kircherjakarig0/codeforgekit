@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wujingjing2024/codeforgekit"
+    "url": "https://github.com/kircherjakarig0/codeforgekit"
   },
-  "website": "https://github.com/wujingjing2024/codeforgekit.git",
+  "website": "https://github.com/kircherjakarig0/codeforgekit.git",
   "keywords": [
     "codeforgekit"
   ],
-  "author": "wujingjing2024",
+  "author": "kircherjakarig0",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wujingjing2024/codeforgekit/issues"
+    "url": "https://github.com/kircherjakarig0/codeforgekit/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/wujingjing2024/codeforgekit#readme",
+  "homepage": "https://github.com/kircherjakarig0/codeforgekit#readme",
   "dependencies": {
 		"devwizardry": "1.0.2",
 		"toolgenius": "1.0.2",
