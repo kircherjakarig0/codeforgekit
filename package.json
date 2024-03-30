@@ -1,0 +1,33 @@
+{
+  "name": "codeforgekit",
+  "version": "1.0.2",
+  "description": "codeforgekit",
+  "type": "module",
+  "main": "codeforgekit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wujingjing2024/codeforgekit"
+  },
+  "website": "https://github.com/wujingjing2024/codeforgekit.git",
+  "keywords": [
+    "codeforgekit"
+  ],
+  "author": "wujingjing2024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wujingjing2024/codeforgekit/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wujingjing2024/codeforgekit#readme",
+  "dependencies": {
+		"devwizardry": "1.0.2",
+		"toolgenius": "1.0.2",
+		"codesenseikit": "1.0.2"
+    }
+}
